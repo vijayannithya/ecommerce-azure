@@ -1,0 +1,66 @@
+﻿@model IEnumerable<AzureOnlineShop.Models.ProductViewModel>
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h1>Product Catalog</h1>
+
+
+
+    <form action="Search" method="POST">
+        <input type="text" name="searchText" />
+        <input type="submit" class="btn btn-primary" value="Search" />
+       @Html.ActionLink("Create Product", "Create")
+ <div>   
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.product_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.product_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.category_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.qty)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.product_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.product_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.category_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.qty)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Update", item)  | 
+                    @Html.ActionLink("Details", "Details",item) |
+                    @Html.ActionLink("Delete", "Delete", new {product_id = item.product_id})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+</form> 
+<a class="btn btn-primary" href="/Index">Home</a>
+@* } *@

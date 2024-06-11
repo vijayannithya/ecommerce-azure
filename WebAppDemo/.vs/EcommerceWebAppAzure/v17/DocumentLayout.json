@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB933466-E7A2-4FA2-8280-F427B5651EBA}|AzureOnlineShop\\AzureOnlineShop.csproj|c:\\users\\nithyavijayan\\desktop\\study\\az 204\\practise\\webappdemo\\azureonlineshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB933466-E7A2-4FA2-8280-F427B5651EBA}|AzureOnlineShop\\AzureOnlineShop.csproj|solutionrelative:azureonlineshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD5841C-F0A0-42F8-81CC-0451D583A013}|FunctionHttp\\FunctionHttp.csproj|c:\\users\\nithyavijayan\\desktop\\study\\az 204\\practise\\webappdemo\\functionhttp\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CD5841C-F0A0-42F8-81CC-0451D583A013}|FunctionHttp\\FunctionHttp.csproj|solutionrelative:functionhttp\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD5841C-F0A0-42F8-81CC-0451D583A013}|FunctionHttp\\FunctionHttp.csproj|c:\\users\\nithyavijayan\\desktop\\study\\az 204\\practise\\webappdemo\\functionhttp\\fnsendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD5841C-F0A0-42F8-81CC-0451D583A013}|FunctionHttp\\FunctionHttp.csproj|solutionrelative:functionhttp\\fnsendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB933466-E7A2-4FA2-8280-F427B5651EBA}|AzureOnlineShop\\AzureOnlineShop.csproj|c:\\users\\nithyavijayan\\desktop\\study\\az 204\\practise\\webappdemo\\azureonlineshop\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB933466-E7A2-4FA2-8280-F427B5651EBA}|AzureOnlineShop\\AzureOnlineShop.csproj|solutionrelative:azureonlineshop\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD5841C-F0A0-42F8-81CC-0451D583A013}|FunctionHttp\\FunctionHttp.csproj|c:\\users\\nithyavijayan\\desktop\\study\\az 204\\practise\\webappdemo\\functionhttp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD5841C-F0A0-42F8-81CC-0451D583A013}|FunctionHttp\\FunctionHttp.csproj|solutionrelative:functionhttp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF29126C-7ADC-4245-8D3F-07F7FCE8D6C6}|FunctionApp3\\FunctionApp3.csproj|c:\\users\\nithyavijayan\\desktop\\study\\az 204\\practise\\webappdemo\\functionapp3\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF29126C-7ADC-4245-8D3F-07F7FCE8D6C6}|FunctionApp3\\FunctionApp3.csproj|solutionrelative:functionapp3\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF29126C-7ADC-4245-8D3F-07F7FCE8D6C6}|FunctionApp3\\FunctionApp3.csproj|c:\\users\\nithyavijayan\\desktop\\study\\az 204\\practise\\webappdemo\\functionapp3\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF29126C-7ADC-4245-8D3F-07F7FCE8D6C6}|FunctionApp3\\FunctionApp3.csproj|solutionrelative:functionapp3\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF29126C-7ADC-4245-8D3F-07F7FCE8D6C6}|FunctionApp3\\FunctionApp3.csproj|c:\\users\\nithyavijayan\\desktop\\study\\az 204\\practise\\webappdemo\\functionapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF29126C-7ADC-4245-8D3F-07F7FCE8D6C6}|FunctionApp3\\FunctionApp3.csproj|solutionrelative:functionapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF29126C-7ADC-4245-8D3F-07F7FCE8D6C6}|FunctionApp3\\FunctionApp3.csproj|c:\\users\\nithyavijayan\\desktop\\study\\az 204\\practise\\webappdemo\\functionapp3\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF29126C-7ADC-4245-8D3F-07F7FCE8D6C6}|FunctionApp3\\FunctionApp3.csproj|solutionrelative:functionapp3\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\AzureOnlineShop\\Program.cs",
+              "RelativeDocumentMoniker": "AzureOnlineShop\\Program.cs",
+              "ToolTip": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\AzureOnlineShop\\Program.cs",
+              "RelativeToolTip": "AzureOnlineShop\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:14:36.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\AzureOnlineShop\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "AzureOnlineShop\\Controller\\ProductController.cs",
+              "ToolTip": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\AzureOnlineShop\\Controller\\ProductController.cs",
+              "RelativeToolTip": "AzureOnlineShop\\Controller\\ProductController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAowFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:21:14.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionApp3\\Function1.cs",
+              "RelativeDocumentMoniker": "FunctionApp3\\Function1.cs",
+              "ToolTip": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionApp3\\Function1.cs",
+              "RelativeToolTip": "FunctionApp3\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:59:33.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionHttp\\host.json",
+              "RelativeDocumentMoniker": "FunctionHttp\\host.json",
+              "ToolTip": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionHttp\\host.json",
+              "RelativeToolTip": "FunctionHttp\\host.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T13:54:16.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionHttp\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionHttp\\Program.cs",
+              "ToolTip": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionHttp\\Program.cs",
+              "RelativeToolTip": "FunctionHttp\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:22:29.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FnSendMessage.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionHttp\\FnSendMessage.cs",
+              "RelativeDocumentMoniker": "FunctionHttp\\FnSendMessage.cs",
+              "ToolTip": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionHttp\\FnSendMessage.cs",
+              "RelativeToolTip": "FunctionHttp\\FnSendMessage.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:22:20.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionApp3\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionApp3\\Program.cs",
+              "RelativeToolTip": "FunctionApp3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:30:19.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionApp3\\host.json",
+              "RelativeDocumentMoniker": "FunctionApp3\\host.json",
+              "ToolTip": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionApp3\\host.json",
+              "RelativeToolTip": "FunctionApp3\\host.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T08:30:21.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionApp3\\local.settings.json",
+              "RelativeDocumentMoniker": "FunctionApp3\\local.settings.json",
+              "ToolTip": "C:\\Users\\NithyaVijayan\\Desktop\\Study\\Az 204\\Practise\\WebAppDemo\\FunctionApp3\\local.settings.json",
+              "RelativeToolTip": "FunctionApp3\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T17:56:55.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+﻿@model AzureOnlineShop.Models.ProductViewModel
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h1>Product Details</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.product_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.product_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.category_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.qty)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+       
+            <tr>
+                <td>
+                @Html.DisplayFor(model => model.product_id)
+                </td>
+                <td>
+                @Html.DisplayFor(model => model.product_name)
+                </td>
+                <td>
+                @Html.DisplayFor(model => model.category_id)
+                </td>
+                <td>
+                @Html.DisplayFor(model => model.price)
+                </td>
+                <td>
+                @Html.DisplayFor(model => model.qty)
+                </td>
+
+            </tr>
+        
+    </tbody>
+</table>
+<div>
+    <a class="btn btn-primary" href="/Product/Index">Product Catalog</a>
+</div>

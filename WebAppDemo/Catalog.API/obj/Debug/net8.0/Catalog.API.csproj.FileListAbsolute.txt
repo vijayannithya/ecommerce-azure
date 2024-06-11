@@ -1,0 +1,7 @@
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\Catalog.API\obj\Debug\net8.0\Catalog.API.csproj.AssemblyReference.cache
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\Catalog.API\obj\Debug\net8.0\Catalog.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\Catalog.API\obj\Debug\net8.0\Catalog.API.AssemblyInfoInputs.cache
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\Catalog.API\obj\Debug\net8.0\Catalog.API.AssemblyInfo.cs
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\Catalog.API\obj\Debug\net8.0\Catalog.API.csproj.CoreCompileInputs.cache
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cache

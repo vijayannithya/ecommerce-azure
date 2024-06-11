@@ -1,0 +1,12 @@
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\CommonHelper\bin\Debug\net8.0\CommonHelper.deps.json
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\CommonHelper\bin\Debug\net8.0\CommonHelper.dll
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\CommonHelper\bin\Debug\net8.0\CommonHelper.pdb
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\CommonHelper\obj\Debug\net8.0\CommonHelper.csproj.AssemblyReference.cache
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\CommonHelper\obj\Debug\net8.0\CommonHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\CommonHelper\obj\Debug\net8.0\CommonHelper.AssemblyInfoInputs.cache
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\CommonHelper\obj\Debug\net8.0\CommonHelper.AssemblyInfo.cs
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\CommonHelper\obj\Debug\net8.0\CommonHelper.csproj.CoreCompileInputs.cache
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\CommonHelper\obj\Debug\net8.0\CommonHelper.dll
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\CommonHelper\obj\Debug\net8.0\refint\CommonHelper.dll
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\CommonHelper\obj\Debug\net8.0\CommonHelper.pdb
+C:\Users\NithyaVijayan\Desktop\Study\Az 204\Practise\WebAppDemo\CommonHelper\obj\Debug\net8.0\ref\CommonHelper.dll
